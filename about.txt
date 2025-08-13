@@ -1,0 +1,14 @@
+Overview
+
+
+This project is a simple, interactive world clock application designed to display the current time across multiple time zones. It uses basic HTML and CSS to create a visually appealing and user-friendly interface and vanilla JavaScript to handle time calculations and updates dynamically. The app likely utilizes JavaScript's Date object or an external time zone API to provide accurate time information for various global locations.
+
+Features
+
+Responsive Design: The layout adapts to different screen sizes for a consistent experience on desktop and mobile devices.
+
+Clean Aesthetics: Styled with modern CSS to present time zone information in an engaging and intuitive way.
+
+Lightweight: Built with minimal code for fast loading and easy maintenance.
+
+Dynamic Time Updates: Utilizes JavaScript to calculate and display real-time clock updates for selected time zones.
